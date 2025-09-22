@@ -268,7 +268,7 @@ Bind mounts pour partager des fichiers locaux
 Exemple pratique : app web + base de données MySQL
 
 ## 🚀 Concepts Appris le Jour 4
-##1️⃣ Docker Compose (multi-conteneurs simplifié)
+## 1️⃣ Docker Compose (multi-conteneurs simplifié)
 Un fichier docker-compose.yml permet de lancer plusieurs services ensemble.
 
 ``` yaml
