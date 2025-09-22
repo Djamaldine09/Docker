@@ -14,3 +14,5 @@ Ce projet documente ma première journée d'apprentissage avec Docker, incluant 
 ```bash
 docker --version
 docker info
+
+### Lancer un container Nginx
